@@ -32,3 +32,17 @@ git clone https://github.com/nikhilshakya07/userdeck-random-users.git
 cd userdeck-random-users
 npm install
 npm run dev
+
+Runs on http://localhost:5173 (Vite dev server)
+
+📌 API Reference
+Using RandomUser API:
+
+https://randomuser.me/api/?page=1&results=5
+
+
+🙋‍♂️ Author
+
+Nikhil Shakya
+🔗 LinkedIn
+💻 GitHub
