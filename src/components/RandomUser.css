@@ -1,0 +1,61 @@
+.user-container{
+    padding: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    margin-bottom: 30px;
+}
+
+.user-list{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.user-card{
+    background-color: rgb(211, 210, 216);
+    height: 150px;
+    max-width: 220px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid gray;
+    border-radius: 12px;
+    box-shadow: 2px 2px 7px;
+    text-align: center;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.user-image{
+    border-radius: 50px;
+    width: 75px;
+    height: 75px;
+    border: 2px solid #000000;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+h2{
+    margin-top: 2px;
+    text-align: center;
+}
+
+p{
+    margin-top: 2px;
+    display: flex;
+    justify-content: center; 
+}
+
+.btn{
+    padding: 15px 30px;
+    margin: 20px;
+    background-color: rgb(164, 169, 169);
+    font-size: 15px;
+    border-radius: 50px;
+}
+
+.loading{
+    font-size: 40px;
+}
