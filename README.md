@@ -45,5 +45,7 @@ https://randomuser.me/api/?page=1&results=5
 ## 🙋‍♂️ Author
 
 **Nikhil Shakya**
+
 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-shakya07/)
+
 💻 [GitHub](https://github.com/nikhilshakya07)
